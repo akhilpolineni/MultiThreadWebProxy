@@ -1,0 +1,4 @@
+problem with void * and int on 64 bit
+TCP socket -do not buffer
+Word filtering - spaces around
+
