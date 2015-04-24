@@ -207,11 +207,7 @@ int is_host_blocked( char  * hostname)
 
  
      
-
-
-
-
-// handle proxy connection for one request
+// handle proxy connection for multiple requests
 void *
 handle_proxy (void *sockptr)
 {
